@@ -1,6 +1,5 @@
 package Bootcamp.Ejercicio9;
 
-import java.io.FileNotFoundException;
 import java.io.PrintStream;
 
 public class Jugador2 {
