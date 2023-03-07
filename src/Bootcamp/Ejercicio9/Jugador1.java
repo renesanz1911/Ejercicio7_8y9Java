@@ -33,7 +33,6 @@ public class Jugador1 {
         return incompleta;
     }
 
-
     public String getNombre1() {
         return nombre1;
     }
@@ -41,6 +40,4 @@ public class Jugador1 {
     public void setNombre1(String nombre1) {
         this.nombre1 = nombre1;
     }
-
-
 }
